@@ -1,9 +1,8 @@
-# Registro--MySQL,
-# Programa para Requerimiento de material,
-# Conexion con MySQL,
-# MySQL HeidiSQL,
-# version 1.0,
-# Netbeans - Eclipse. 
+# Registro--MySQL- Netbeans - Eclipse. 
+#Programa para Requerimiento de material,
+#Conexion con MySQL,
+#MySQL HeidiSQL,
+#version 1.0.
 
 
 ¡Buen día visitante!

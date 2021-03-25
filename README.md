@@ -1,8 +1,8 @@
-# Registro--MySQL
-#Programa para Requerimiento de material
-#Conexion con MySQL 
-#MySQL HeidiSQL
-#version 1.0
+# Registro--MySQL,
+#Programa para Requerimiento de material,
+#Conexion con MySQL,
+#MySQL HeidiSQL,
+#version 1.0,
 
 
 ¡Buen día visitante!
